@@ -1,0 +1,41 @@
+
+Server compilation:
+
+gcc server.c -pthread
+./a.out <port no>
+
+Client1 compilation:
+
+gcc client.c -pthread -lssl -lcrypto
+./a.out <ip> <port no> private1.pem public2.pem
+
+Client2 compilation:
+
+gcc client.c -pthread -lssl -lcrypto
+./a.out <ip> <port no> private2.pem public1.pem
+
+EXAMPLE:::::::::
+
+Server compilation:
+
+gcc server.c -pthread
+./a.out 8888
+
+Client1 compilation:
+
+gcc client.c -pthread -lssl -lcrypto
+./a.out 127.0.0.1 8888 private1.pem public2.pem
+
+Client2 compilation:
+
+gcc client.c -pthread -lssl -lcrypto
+./a.out 127.0.0.1 8888 private2.pem public1.pem
+
+
+NOTE: The server never exits...
+
+
+
+
+
+

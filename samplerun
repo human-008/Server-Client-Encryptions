@@ -1,0 +1,55 @@
+SAMPLE RUN:
+
+
+Server Terminal:
+
+Socket Created.... 
+Connection established with first client....
+Connection established with both clients.... Ready to run....
+Both the Clients Left......
+Waiting for new Clients......
+
+
+*****************************************************************************************************
+
+
+Client1 terminal:
+
+Sucessfully conected with server
+Client1
+Hi
+Encrpyted Text : Ɠ���FM��ř$ݷ�ˣ6���<�Xi��6��l��x��OO�g��ʞ+��1�_��b���3�i�/��"+l�+s
+Original Message : Hi Client 2
+Encrpyted Text : -<�����J�/HU�ڈ����zb;j�lqCo�nO�}=������C�^PS�$b
+5�:�Χ�Z�AB�"r��mh��w2i���F�Os�;i"�5.�R���:�=N�!��◤7U�w����\}������D��=W/O��V�{Y���-��Y������S�u�_�h �;��y�|��0��{���6�u(�O�?��cC��/�O.�%�4������ï�a[HM�c����Aj�z�1��$Sb�1��
+
+@O:h��؞a�ʹI�t����x@^���G��6��-�jb�ߛ���ϑ��       _�xG�B6�l�����{
+                                            ��<���P���dѿ��If�q�,���x�l�&��7=g��%y#�&�'ʄ8ܷo	oNu�&�� ;̏��!b�H2���~ǉ�<�� �.C|y�:�8I����ti>҉�ޱ/�Jl�Qo�w+�Ӟ�c�(O~�DRn��g�u����,�u�,)gk��ɐ�f
+                                                          {���|M���Y��Q�n�P���$�J1D�8C�	��$���������	4�4��?��O�&���q����t~1��Z��4��S�6q�{
+          �t�h��̞}\Vn�G3z���0�R����7�&�Ƶ����l�t
+                                                  �[���ٯ�}Z�s��m_��D���
+   ��y[<�O������
+Original Message : this side
+
+
+****************************************************************************
+
+Client2 terminal:
+
+Sucessfully conected with server
+Encrpyted Text : ��T�X^�æ�
+                           �_3m�c��G�
+                                       ⨔�)���$_���ǔmB��#"8��|T>#��s�"��!:�	e�P��o8a�������%
+Original Message : Client1
+Encrpyted Text : /�⒇�yz����J���u���A �q�6e��Ϛ���݌r
+���6������
+            ���𭵝�~���G��J_{�^�p�q����Qf���Y�3͓�L�����R����r��āG���(4��W+	����R�Bt�wC(�z$��������T�ta��[��
+�Yc����Lgs��e	c}
+g�P8��w�4��Hq�e��I�"�2#.G/s~�vCi��������+����ƤP���UCf�r��;�%�/i��qP���^#��q�9���{\U��?�if����_�n`)�X�{;�;N�R����ϒ�0gb-,���_?�F���'=�G������O��^�&�Y
+                   �}�P�E���by�'*r��lt�*��)c��~cH<���	�q���/L_�DvV�߼v�	ja�"�}/=�Y���l��PL���Ĭy�.D���M�Gm,���g(����9\�_S�\�=��Z20NB#��ū�`GRq�����m��W"B�l�����y���<��h-f򂋅07�ċC��mq"Z��MNY:���9�qŞ�Vf�A�H��$L��ڹzB�
+R��?� �ID�Q�g*MC
+��Յ�w��ԛ{EÍF�m�!��������˼�9����M��g�����
+Original Message : Hi
+Hi Client 2
+this side
+exit
